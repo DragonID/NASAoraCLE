@@ -1,6 +1,6 @@
 # NASAoraCLE
-[Team Cowboy Bebop | Live Smart for NASA Space Apps Challenge 2017]
-(Icons&Photos/CombinedLogo.png)
+Team Cowboy Bebop | Live Smart for NASA Space Apps Challenge 2017
+(https://github.com/DragonID/NASAoraCLE/blob/master/Icons%26Photos/CombinedLogo.png)
 
 
 ### Cleveland as the city of the _FUTURE_
