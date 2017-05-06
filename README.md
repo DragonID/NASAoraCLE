@@ -1,14 +1,14 @@
 # NASAoraCLE
-Team Cowboy Bebop | Live Smart for NASA Space Apps Challenge 2017
+[Team Cowboy Bebop | Live Smart for NASA Space Apps Challenge 2017]
 (Icons&Photos/CombinedLogo.png)
 
 
 ### Cleveland as the city of the _FUTURE_
 In a warming world, Cleveland has the necessary human and natural resources to become the city of the future. We will meet the UN Global Goals for Energy, Food, and Industry with Wind Power, Advanced Vertical Farming, and a MaaS Transportation platform.
 
-Please find the official NASA page for Team Cowboy Bebop [HERE](https://2017.spaceappschallenge.org/challenges/earth-and-us/live-smart/teams/team-cowboy-bebop/project)
-Please find our amazing 30s Video Submission [HERE](https://youtu.be/entbuYTro0E)
-The full presentation and video is in the Final Presentation folder [HERE](https://github.com/DragonID/NASAoraCLE/tree/master/Final%20Presentation)
+* Please find the official NASA page for Team Cowboy Bebop [HERE](https://2017.spaceappschallenge.org/challenges/earth-and-us/live-smart/teams/team-cowboy-bebop/project)
+* Please find our amazing 30s Video Submission [HERE](https://youtu.be/entbuYTro0E)
+* The full presentation and video is in the Final Presentation folder [HERE](https://github.com/DragonID/NASAoraCLE/tree/master/Final%20Presentation)
 
 
 **This projct is part of [NASA's 2017 Space Apps Challenge](https://2017.spaceappschallenge.org/), and we want to thank everyone at NASA, Cleveland's NASA Glenn Research Center, and all the organizers that have put on this amazing event year after year.**
@@ -25,7 +25,7 @@ To underpin the needed change to transform Cleveland we turned to the _UN Global
 
 **Food**: Cleveland has a number of underutilized buildings that can be converted to vertical farms, and operated for profit. Using the model from Chicago's The Plant, we can double the output of food per square foot as compared to farmland. In order to meet this goal, we propose that subsidies that go to farmland also be allowed for urban farming, this will allow for the establishment of significant urban farming (rooftop, vertical side of building, etc...).
 
-**Transpiration**: We propose upgrading the current city transportation model by further developing a safe cycling network, a frequent bus grid, traffic calming and parking management. All of this moving to create world’s first Mobility-as-a-Service (MaaS) pass/platform.
+**Transportation**: We propose upgrading the current city transportation model by further developing a safe cycling network, a frequent bus grid, traffic calming and parking management. All of this moving to create world’s first Mobility-as-a-Service (MaaS) pass/platform.
 
 In the end, this will completely change Cleveland over the next two decades! We will bring innovation, wealth, and equality, as well as sustainability and self-reliance. Making Cleveland the City of The Future. 
 
